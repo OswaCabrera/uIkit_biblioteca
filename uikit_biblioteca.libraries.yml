@@ -1,0 +1,13 @@
+uikit:
+  remote: https://getuikit.com/
+  version: 3.6.22
+  license:
+    name: MIT
+    url: https://github.com/uikit/uikit/blob/develop/LICENSE.md
+    gpl-compatible: true
+  css:
+    base:
+      css/uikit.min.css: { minified: true }
+  js:
+    js/uikit.min.js: { minified: true }
+    js/uikit-icons.min.js: { minified: true }
